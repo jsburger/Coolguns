@@ -106,6 +106,7 @@ p(wep_eraser,"eraser2",0,2)
 p(wep_super_plasma_cannon,"spc1",9,9)
 p(wep_energy_sword,"energysword2",3,5)
 p(wep_plasma_rifle,"plasmarifle1",4,2)
+p(wep_blood_launcher,"bloodlauncher1",2,2)
 
 weproll()
 global.startroll = 0
